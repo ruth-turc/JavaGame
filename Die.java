@@ -1,7 +1,11 @@
 import java.util.Random;
 
 public class Die {
+	/**
+	 * The number of sides the die has
+	 */
 	final private int numSides;
+
 	final private Random rand;
 	
 	/**
